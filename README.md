@@ -11,7 +11,7 @@ Service Monitoring  - Checks the status of services and attempts to start them i
 Display a full dashboard  ./mycustom.sh -all  -- Commands   This function continuously refreshes the display every 5 seconds, showing the current status of all monitored resources and all resource updates every 5 Seconds.
 Check only CPU usage   ./mycustom.sh -cpu  -- Commands
 Monitor network only   ./mycustom.sh -network -- commands
-output
+# output
 {First_task_output_1} (https://github.com/user-attachments/assets/83e020c7-b372-4238-8a2a-6f19f31ff7c1)
 {First_task_output_2} (https://github.com/user-attachments/assets/de8709bd-0135-4c8f-bb0a-e814e93dc736)
 
@@ -24,7 +24,7 @@ Service Audits Lists running services, checks critical services.
 Custom Security Checks  Allows extension with custom security checks via a configuration file.
 Reporting and Alerting  Generates a summary report and optionally sends email alerts.  
 Reporting and Alerting Check  to commands ./mysecurity --report
-Output
+# Output
 {Second_task_output_1}(https://github.com/user-attachments/assets/a54d1452-0062-4ae2-8e8d-346e1a5ba255)
 {Second_task_output_2}(https://github.com/user-attachments/assets/2719a607-c771-4125-93ee-f0f3133eeff8)
 {Second_task_output_3}(https://github.com/user-attachments/assets/b931a0c7-06a9-4fd1-a9d0-6e49fc8fe1b5)
